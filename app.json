@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "node_modules/"
+  ],
+  "promptDelete": false,
+  "attachmentFolderPath": "assets/material/2022/10",
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true
+}
