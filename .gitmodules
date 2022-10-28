@@ -1,0 +1,3 @@
+[submodule "plugins/xkyii-obsidian-paste-renamer"]
+	path = plugins/xkyii-obsidian-paste-renamer
+	url = https://github.com/xkyii/xkyii-obsidian-paste-renamer.git
