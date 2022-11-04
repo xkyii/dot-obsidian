@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "readableLineLength": false,
   "showLineNumber": true,
   "useMarkdownLinks": true,
@@ -8,7 +8,8 @@
     "node_modules/"
   ],
   "promptDelete": false,
-  "attachmentFolderPath": "assets/material/2022/10",
+  "attachmentFolderPath": "assets/material/2022/11",
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "newFileLocation": "current"
 }

@@ -3,8 +3,10 @@
   "global-search",
   "switcher",
   "page-preview",
+  "templates",
   "note-composer",
   "command-palette",
+  "editor-status",
   "outline",
   "word-count",
   "workspaces"
