@@ -112,14 +112,16 @@
               {
                 "id": "101c51439e85fb5d",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "docs/00.Undone/06.note.private.md",
+                    "file": "docs/02.Diary/02.2022/2022.11-monthy.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": true
-                  }
+                  },
+                  "pinned": true
                 }
               }
             ]
@@ -180,7 +182,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "docs/00.Undone/06.note.private.md"
+                    "file": "docs/02.Diary/02.2022/2022.11-monthy.md"
                   }
                 }
               },
@@ -198,7 +200,7 @@
         "direction": "horizontal",
         "width": 300
       },
-      "active": "101c51439e85fb5d"
+      "active": "55e0b4e4d88987ed"
     }
   },
   "active": "xkyii.com"
