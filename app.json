@@ -4,13 +4,18 @@
   "showLineNumber": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "userIgnoreFilters": [
-    "node_modules/"
-  ],
+  "userIgnoreFilters": null,
   "promptDelete": false,
   "attachmentFolderPath": "assets/material/2023/10",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "newFileLocation": "current",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
