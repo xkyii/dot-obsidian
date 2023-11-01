@@ -13,6 +13,7 @@
   "command-palette": true,
   "slash-command": false,
   "editor-status": true,
+  "starred": false,
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
@@ -20,11 +21,11 @@
   "word-count": true,
   "slides": false,
   "audio-recorder": false,
-  "workspaces": false,
+  "workspaces": true,
   "file-recovery": false,
   "publish": false,
   "sync": false,
   "canvas": false,
-  "properties": false,
-  "bookmarks": true
+  "bookmarks": false,
+  "properties": true
 }
