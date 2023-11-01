@@ -1,5 +1,4 @@
 {
-  "command-palette:open": [],
   "switcher:open": [
     {
       "modifiers": [
@@ -14,6 +13,33 @@
         "Mod"
       ],
       "key": "R"
+    }
+  ],
+  "markdown:toggle-preview": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "command-palette:open": [],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
     }
   ]
 }

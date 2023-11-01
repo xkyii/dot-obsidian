@@ -3,12 +3,11 @@
   "global-search",
   "switcher",
   "page-preview",
-  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
   "editor-status",
+  "bookmarks",
   "outline",
-  "word-count",
-  "workspaces"
+  "word-count"
 ]
