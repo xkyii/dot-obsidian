@@ -3,12 +3,12 @@
   "global-search",
   "switcher",
   "backlink",
+  "tag-pane",
   "properties",
   "page-preview",
   "templates",
   "command-palette",
   "editor-status",
-  "bookmarks",
   "outline",
   "word-count"
 ]
