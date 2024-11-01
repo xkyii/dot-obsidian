@@ -4,9 +4,11 @@
   "showLineNumber": true,
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "userIgnoreFilters": null,
+  "userIgnoreFilters": [
+    "/mlcache/doc/docker/*"
+  ],
   "promptDelete": false,
-  "attachmentFolderPath": "assets/material/2024/02",
+  "attachmentFolderPath": "assets/material/2024/11",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "newFileLocation": "current",
