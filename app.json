@@ -9,7 +9,7 @@
     "node_modules/*"
   ],
   "promptDelete": false,
-  "attachmentFolderPath": "assets/material/2024/12",
+  "attachmentFolderPath": "assets/material/2025/08",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
   "newFileLocation": "current",
@@ -20,5 +20,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "useTab": false
 }
